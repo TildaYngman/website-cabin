@@ -1,0 +1,24 @@
+.jumbotron {
+    text-align: center;
+    background-image: url("bilder/bild-unsplash.jpg");
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.container-fluid {
+    text-align: center;
+}
+
+.app {
+    height: 180px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.getapp {
+    height: 500px;
+    text-align: center;
+    padding-top: 150px;
+    background-color: #07eaff;
+    margin-top: 80px;
+}
